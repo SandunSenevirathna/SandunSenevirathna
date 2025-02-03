@@ -34,9 +34,11 @@ const SandunSenevirathna = {
             python: ["Django", "FastAPI"],
             misc: ["GraphQL", "REST"]
         },
-        databases: ["MongoDB", "PostgreSQL"],
+        databases: ["MYSQL", "MongoDB", "PostgreSQL"],
         devops: ["Docker", "AWS", "CI/CD"],
-        currentlyExploring: "AI/ML Integration"
+        currentlyExploring: ["AI/ML Integration"],
+        premium ai tool : ["Claude.ai"],
+        free ai tool: ["ChatGPT", "DeepSeek"]
     }
 };
 ```
